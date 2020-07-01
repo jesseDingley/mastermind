@@ -1,7 +1,7 @@
 # mastermind
 EISTI prepa second year first semester project. mastermind built with OCaml with UI. Possibility to play or to challenge an AI bot.
 
-## requiries
+## requirments
 - Make sure you have OCaml installed (on Linux: ```apt install ocaml```). See https://ocaml.org/docs/install.fr.html
 
 ## execution
