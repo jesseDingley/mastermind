@@ -7,5 +7,5 @@ EISTI prepa second year first semester project (2018-2019). mastermind built wit
 ## Execution
 - open a terminal and run ```ocaml``` in the directory the .ml files are kept.
 - run ```#use "mastermind.ml";;```
-- run ```Mastermind.mastermind playerName nbRounds nbTries RepAuto ;;``` ex: ```Mastermind.mastermind "Jesse" 3 10 true ;;``` 
+- run ```Mastermind.mastermind playerName nbTries nbRounds RepAuto ;;``` ex: ```Mastermind.mastermind "Jesse" 10 3 true ;;``` 
 
